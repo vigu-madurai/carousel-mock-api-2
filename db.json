@@ -1,44 +1,46 @@
-[
-  {
-    "title": "carousel 1",
-    "imageUrl": "https://cdn4.vectorstock.com/i/1000x1000/04/73/cosmetic-bottles-mock-up-beauty-skin-care-product-vector-26270473.jpg",
-    "link": "#",
-    "description": "",
-    "id": 1
-  },
-  {
-    "title": "carousel 2",
-    "imageUrl": "https://cdn.staticaly.com/img/unblast.com/wp-content/uploads/2019/01/Cosmetics-Mockup-1.jpg",
-    "link": "#",
-    "description": "",
-    "id": 2
-  },
-  {
-    "title": "carousel 3",
-    "imageUrl": "https://elements-cover-images-0.imgix.net/307540d0-e013-436f-a4e1-b344605d77e8?auto=compress%2Cformat&fit=max&w=2740&s=da945e7b71d0a438a0279eba46b7b2bd",
-    "link": "#",
-    "description": "",
-    "id": 3
-  },
-  {
-    "title": "carousel 4",
-    "imageUrl": "https://purewows3.imgix.net/images/articles/2019_11/FB-Sponsored_List_Walmart_Beauty_Products-2.jpg?auto=format,compress&cs=strip",
-    "link": "#",
-    "description": "",
-    "id": 4
-  },
-  {
-    "title": "carousel 5",
-    "imageUrl": "https://media.allure.com/photos/60773ba7b38c786c238b9efc/2:1/w_3500,h_1750,c_limit/global%20beauty%20best%20sellers%20lede%20(3).jpg",
-    "link": "#",
-    "description": "",
-    "id": 5
-  },
-  {
-    "title": "carousel 6",
-    "imageUrl": "https://thumbs.dreamstime.com/z/cosmetics-cream-jar-mock-up-banner-beauty-product-cosmetics-cream-jar-mock-up-banner-beauty-product-pearl-blue-package-mockup-157556145.jpg",
-    "link": "#",
-    "description": "",
-    "id": 6
-  }
-]
+{
+  "results": [
+    {
+      "title": "carousel 1",
+      "imageUrl": "https://cdn4.vectorstock.com/i/1000x1000/04/73/cosmetic-bottles-mock-up-beauty-skin-care-product-vector-26270473.jpg",
+      "link": "#",
+      "description": "",
+      "id": 1
+    },
+    {
+      "title": "carousel 2",
+      "imageUrl": "https://cdn.staticaly.com/img/unblast.com/wp-content/uploads/2019/01/Cosmetics-Mockup-1.jpg",
+      "link": "#",
+      "description": "",
+      "id": 2
+    },
+    {
+      "title": "carousel 3",
+      "imageUrl": "https://elements-cover-images-0.imgix.net/307540d0-e013-436f-a4e1-b344605d77e8?auto=compress%2Cformat&fit=max&w=2740&s=da945e7b71d0a438a0279eba46b7b2bd",
+      "link": "#",
+      "description": "",
+      "id": 3
+    },
+    {
+      "title": "carousel 4",
+      "imageUrl": "https://purewows3.imgix.net/images/articles/2019_11/FB-Sponsored_List_Walmart_Beauty_Products-2.jpg?auto=format,compress&cs=strip",
+      "link": "#",
+      "description": "",
+      "id": 4
+    },
+    {
+      "title": "carousel 5",
+      "imageUrl": "https://media.allure.com/photos/60773ba7b38c786c238b9efc/2:1/w_3500,h_1750,c_limit/global%20beauty%20best%20sellers%20lede%20(3).jpg",
+      "link": "#",
+      "description": "",
+      "id": 5
+    },
+    {
+      "title": "carousel 6",
+      "imageUrl": "https://thumbs.dreamstime.com/z/cosmetics-cream-jar-mock-up-banner-beauty-product-cosmetics-cream-jar-mock-up-banner-beauty-product-pearl-blue-package-mockup-157556145.jpg",
+      "link": "#",
+      "description": "",
+      "id": 6
+    }
+  ]
+}
